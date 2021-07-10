@@ -1,0 +1,3 @@
+module diffprog
+
+end # module
